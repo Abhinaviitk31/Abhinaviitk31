@@ -7,12 +7,16 @@ Undergraduate in Mathematics and Scientific Computing • IIT Kanpur
 <p align="center">
 Machine Learning • Natural Language Processing • Neuroscience
 </p>
+
 ---
+
 ## Overview
 I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am working with Machine Learning and Computational Neuroscience. I also have keen intererst and wish to explore other domains like:
 Machine Learning & Natural Language Processing
 Reinforcement Learning
+
 ---
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
