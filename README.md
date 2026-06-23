@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kshitij</h1>
+<h1 align="center"> Abhinav Kshitij</h1>
 
 <p align="center">
-AI Researcher • IIT Kanpur
+Undergraduate in Mathematics and Scientific Computing • IIT Kanpur
+Machine Learning • Natural Language Processing • Neuroscience
 </p>
 
 ## 🚀 About Me
