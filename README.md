@@ -1,5 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhinav Kshitij</h1>
 
+<p align="center">
+AI Researcher • IIT Kanpur
+</p>
+
+## 🚀 About Me
+- 🧠 Brain & Cognitive Science Club, IIT Kanpur
+- 🤖 Working on EEG Foundation Models
+- 🌱 Learning Deep Learning & Cognitive Neuroscience
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
 <!--
 **Abhinaviitk31/Abhinaviitk31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
