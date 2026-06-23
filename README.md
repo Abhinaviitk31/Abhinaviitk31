@@ -39,19 +39,20 @@ I also have keen intererst and wish to explore other domains like:
          style="margin-right:12px;" />
   </a>
 
-  <a href="mailto:dabeetkd24@iitk.ac.in">
+  <a href="mailto:abhinavk25@iitk.ac.in">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg"
          alt="Email"
          height="32"
          style="margin-right:12px;" />
   </a>
 
-  <a href="http://instagram.com/__dabeet" target="_blank">
+  <a href="https://www.instagram.com/abhinav_17_kshitij/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
          alt="Instagram"
          height="32" />
   </a>
 </p>
+
 <!--
 **Abhinaviitk31/Abhinaviitk31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
