@@ -2,6 +2,9 @@
 
 <p align="center">
 Undergraduate in Mathematics and Scientific Computing • IIT Kanpur
+</p>
+
+<p align="center">
 Machine Learning • Natural Language Processing • Neuroscience
 </p>
 
