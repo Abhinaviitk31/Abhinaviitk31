@@ -25,16 +25,11 @@ I also have keen intererst and wish to explore other domains like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" height="40"/>
 </p>
 
 ## 📊 GitHub Stats
 
-![Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+![Stats](https://ghstats.dev/api/card?username=Abhinaviitk31)
 <!--
 **Abhinaviitk31/Abhinaviitk31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
