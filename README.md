@@ -29,6 +29,12 @@ I also have keen intererst and wish to explore other domains like:
 
 ---
 
+## Affiliations
+- **Brain and Cognitive Society (BCS), IIT Kanpur** — Secretary
+- **International Relations Wing (IR), IIT Kanpur** — Secretary
+
+---
+
 ## Contact
 
 <p align="left">
