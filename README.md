@@ -27,9 +27,31 @@ I also have keen intererst and wish to explore other domains like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 </p>
 
-## 📊 GitHub Stats
+---
 
-![Stats](https://ghstats.dev/api/card?username=Abhinaviitk31)
+## Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dabeet-das-a17bb22ba/](https://www.linkedin.com/in/abhinav-kshitij-a731a4258/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         height="32"
+         style="margin-right:12px;" />
+  </a>
+
+  <a href="mailto:dabeetkd24@iitk.ac.in">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg"
+         alt="Email"
+         height="32"
+         style="margin-right:12px;" />
+  </a>
+
+  <a href="http://instagram.com/__dabeet" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         alt="Instagram"
+         height="32" />
+  </a>
+</p>
 <!--
 **Abhinaviitk31/Abhinaviitk31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
