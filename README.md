@@ -32,7 +32,7 @@ I also have keen intererst and wish to explore other domains like:
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dabeet-das-a17bb22ba/](https://www.linkedin.com/in/abhinav-kshitij-a731a4258/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-kshitij-a731a4258/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
          height="32"
