@@ -11,7 +11,7 @@ Machine Learning • Natural Language Processing • Neuroscience
 ---
 
 ## Overview
-I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am working with Machine Learning and Computational Neuroscience. 
+I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am currently focused on Machine Learning and Computational Neuroscience. 
 
 I also have keen intererst and wish to explore other domains like:
 
@@ -20,8 +20,9 @@ I also have keen intererst and wish to explore other domains like:
 
 ---
 
-## 🛠️ Tech Stack
+##  Technical Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 📊 GitHub Stats
