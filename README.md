@@ -14,8 +14,9 @@ Machine Learning • Natural Language Processing • Neuroscience
 I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am working with Machine Learning and Computational Neuroscience. 
 
 I also have keen intererst and wish to explore other domains like:
--Machine Learning & Natural Language Processing
--Reinforcement Learning
+
+- Machine Learning & Natural Language Processing
+- Reinforcement Learning
 
 ---
 
